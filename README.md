@@ -1,6 +1,5 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/410358/48665504-97156580-eaa7-11e8-83e5-e98981840cff.jpeg
-"/>
+  <img src="https://user-images.githubusercontent.com/410358/48665504-97156580-eaa7-11e8-83e5-e98981840cff.jpeg"/>
 </p>
 
 # react-scaffold
